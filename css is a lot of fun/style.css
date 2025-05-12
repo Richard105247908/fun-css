@@ -32,24 +32,22 @@ h2{
 .secPara-2{
     color: #fff;
 }
-.button1{
-    display: inline-block;
-    background-color:#EF5839;
-    padding: 20px;
-}
 
 
-.button2{
+.btn{
     display:inline-block;
-    background-color:#fff;
     padding: 20px;
-}
-.a1{
-    color: #fff;
     text-decoration: none;
+}
+
+.btn-a1{
+    background-color:#EF5839;
+    color: #fff;
+    
     
 }
-.a2{
+.btn-a2{
+    background-color: #fff;
     color:#2E354F;
-    text-decoration: none;
+    
 }
