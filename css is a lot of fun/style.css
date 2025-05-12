@@ -10,6 +10,9 @@ h1{
 h2{
     color:#EF5839;
 }
+section{
+    width: 620px;
+}
 
 .section-1{
     background-color: #fff;
