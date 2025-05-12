@@ -3,6 +3,9 @@ body{
     background-color: #2E354F;
     color: #fff;
 }
+h1{
+    padding: 20px 0 20px 20px;
+}
 
 h2{
     color:#EF5839;
@@ -10,14 +13,43 @@ h2{
 
 .section-1{
     background-color: #fff;
-    
+}
+.blogpost{
+    width: 580px;
+    padding: 25px;
 }
 .secPara-1{
     color: #2E354F;
+    width: 580px;
 }
-a{
+
+.anc-sect{
     color: #EF5839;
+}
+.sect2-space{
+    padding: 25px;
 }
 .secPara-2{
     color: #fff;
+}
+.button1{
+    display: inline-block;
+    background-color:#EF5839;
+    padding: 20px;
+}
+
+
+.button2{
+    display:inline-block;
+    background-color:#fff;
+    padding: 20px;
+}
+.a1{
+    color: #fff;
+    text-decoration: none;
+    
+}
+.a2{
+    color:#2E354F;
+    text-decoration: none;
 }
