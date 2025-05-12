@@ -23,8 +23,12 @@ h2{
     width: 580px;
 }
 
-.anc-sect{
+a{
     color: #EF5839;
+}
+a:hover,
+a:focus {
+    color: #d4b44c;
 }
 .sect2-space{
     padding: 25px;
